@@ -1,5 +1,5 @@
 body {
-  background-color: #e8e6e6;
+  background-image: linear-gradient(to right, #e6e9ed, #ced1d6);
 }
 
 footer {
@@ -17,4 +17,12 @@ footer {
     margin-right: auto;
     margin-left: auto;
     text-align: center;
+}
+
+.float-left {
+  max-width: 40%;
+}
+
+.float-right {
+  max-width: 40%;
 }
